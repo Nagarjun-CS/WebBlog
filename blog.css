@@ -1,0 +1,85 @@
+.a
+{
+    font-family: 'Dela Gothic One', cursive; 
+    color:#ffbb33;
+}
+
+.card:hover
+{
+    opacity: 0.5;
+    box-shadow: 10px 10px 5px white;
+}
+
+.footer
+{
+    background-color: #314152;
+    color: #ffbb33;
+    height: 350px;
+}
+
+.card
+{
+    transition: transform .2s;
+}
+
+.card:hover
+{
+    transform: scale(1.02); 
+}
+
+.b
+{
+    text-align: center;
+    padding: 20px 10px 20px 10px;
+    font-size:xx-large
+    
+}
+
+#c
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+.size
+{   margin: 10px 10px 10px 10px;
+    height: 50px;
+    width: 50px;    
+}
+
+
+.nav-color
+{ 
+    background-color: #314152;
+}
+
+
+.img-size
+{
+    float: left;
+    height: 350px;
+    width: 270px;
+    padding: 30px 25px 18px 5px ;
+    transition: transform .2s;
+    
+  
+}
+.img-size:hover
+{
+    transform: scale(1.2); 
+}
+
+.headings
+{
+    padding: 11px;
+}
+
+body
+{
+    background-color: black;
+}
+
+span,h2{
+color: white;
+}
+
